@@ -1,4 +1,4 @@
-# Created by Axel Jon Bico
+# Created by Axel Jon J. Bico
 # Start
 print("Hello Student. Welcome to the Quiz\n")
 name = input("Please Enter your Name     : ")
